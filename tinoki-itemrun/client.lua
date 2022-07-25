@@ -84,7 +84,7 @@ Citizen.CreateThread(function()
 						exports.pNotify:SendNotification({
 							text = (Config.Notification8), 
 							type = "error", 
-							timeout = math.random(4000, 5500), 
+							timeout = math.random(4000, 5000), 
 							layout = "centerLeft", 
 							queue = "left"
 						})
