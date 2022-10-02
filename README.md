@@ -1,4 +1,9 @@
-# tinoki-itemrun
-simple item run by TinoKi
+Item run by TinoKi
 
-Preview -> https://youtu.be/aTQY_ITUJVc
+Framework = ESX
+
+Dependencies = pNotify, rprogress
+
+Preview = https://youtu.be/aTQY_ITUJVc
+
+Discord = https://discord.gg/fTC3Utg4vF
